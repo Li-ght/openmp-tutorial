@@ -22,8 +22,11 @@ openmp是完全重写的新的samp官方多人联机模组，旧的sa-mp服务�
 7. 完全向后兼容sa-mp的代码，和sa-mp开发一样
 ```
 官网：[open.mp](https://www.open.mp/)
+
 官方论坛：[open.mp论坛](https://forum.open.mp/)
+
 国服开发者交流社区：310708518（限有意向学习的人或开发者加入）
+
 圣安地列斯联机社区：511516714
  
 # 教程
@@ -791,96 +794,163 @@ MyFunc3()
 
 1 基础:
 [代码基础](https://sampwiki.blast.hk/wiki/Scripting_Basics)
+
 [const](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#const)
+
 [enum](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#enum)
+
 [forward](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#forward)
+
 [native](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#native)
+
 [new](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#new)
+
 [operator](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#operator)
+
 [public](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#public)
+
 [static](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#static)
+
 [stock](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#stock)
 
 
 2 关键词语句:
 [控制结构](https://sampwiki.blast.hk/wiki/Control_Structures) 
+
 [assert](https://sampwiki.blast.hk/wiki/Keywords:Statements#assert)
+
 [break](https://sampwiki.blast.hk/wiki/Keywords:Statements#break)
+
 [case](https://sampwiki.blast.hk/wiki/Keywords:Statements#case)
+
 [continue](https://sampwiki.blast.hk/wiki/Keywords:Statements#continue)
+
 [default](https://sampwiki.blast.hk/wiki/Keywords:Statements#default)
+
 [do](https://sampwiki.blast.hk/wiki/Keywords:Statements#do)
+
 [else](https://sampwiki.blast.hk/wiki/Keywords:Statements#else)
+
 [exit](https://sampwiki.blast.hk/wiki/Keywords:Statements#exit)
+
 [for](https://sampwiki.blast.hk/wiki/Keywords:Statements#for)
+
 [goto](https://sampwiki.blast.hk/wiki/Keywords:Statements#goto)
+
 [if](https://sampwiki.blast.hk/wiki/Keywords:Statements#if)
+
 [return](https://sampwiki.blast.hk/wiki/Keywords:Statements#return)
+
 [sleep](https://sampwiki.blast.hk/wiki/Keywords:Statements#sleep)
+
 [state](https://sampwiki.blast.hk/wiki/Keywords:Statements#state)
+
 [switch](https://sampwiki.blast.hk/wiki/Keywords:Statements#switch)
+
 [while](https://sampwiki.blast.hk/wiki/Keywords:Statements#while)
 
 
 3 编程指令:
 [#assert](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23assert)
+
 [#define](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23define)
+
 [#else](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23else)
+
 [#elseif](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23elseif)
+
 [#emit](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23emit)
+
 [#endif](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23endif)
+
 [#endinput , #endscript](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23endinput_.2C_.23endscript)
+
 [#error](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23error)
+
 [#if](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23if)
+
 [#include](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23include)
+
 [#pragma](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23pragma)
+
 ----[Information](https://sampwiki.blast.hk/wiki/Keywords:Directives#Information)
+
 ----[List](https://sampwiki.blast.hk/wiki/Keywords:Directives#List)
+
 ----[Examples](https://sampwiki.blast.hk/wiki/Keywords:Directives#Examples)
+
 --------[Deprecated](https://sampwiki.blast.hk/wiki/Keywords:Directives#Deprecated)
+
 [#tryinclude](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23tryinclude)
+
 [#undef](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23undef)
 
 
 4 其他:
 [char](https://sampwiki.blast.hk/wiki/Keywords:Operators#char)
+
 [defined](https://sampwiki.blast.hk/wiki/Keywords:Operators#defined)
+
 [sizeof](https://sampwiki.blast.hk/wiki/Keywords:Operators#sizeof)
+
 [state](https://sampwiki.blast.hk/wiki/Keywords:Operators#state)
+
 [tagof](https://sampwiki.blast.hk/wiki/Keywords:Operators#tagof)
 
 
 **资料篇：**
 这是你需要经常用的一些资料和维基百科，可能是你在开发过程中接触最多的部分
 [限制 - 关于服务器的一些限制](https://sampwiki.blast.hk/wiki/Limits)
+
 [函数 - 关于服务器提供的函数功能](https://sampwiki.blast.hk/wiki/Category:Scripting_Functions)
+
 [回调 - 关于服务器提供的回调](https://sampwiki.blast.hk/wiki/Category:Scripting_Callbacks)
+
 [资源文献 - 关于编程中需要用到的一些资料（比如载具ID，对话框样式，皮肤ID等等）](https://sampwiki.blast.hk/wiki/Category:Scripting_Documentation)
+
 [OBJ大全 - 关于游戏里的OBJ详细资料以及全部OBJ清单](https://dev.prineside.com/gtasa_samp_model_id/)
+
 [控制服务器和rcon指令 - 帮助你操控你的服务器](https://sampwiki.blast.hk/wiki/Controlling_Your_Server)
 
 
 **脚本范例(入门）**
 注意：以下教程是sa-mp教程，可能和open.mp的部分语法有非常小的区别，但思路和代码实现是一致的
 [玩家随机出生](https://sampforum.blast.hk/showthread.php?tid=668170)
+
 [对话框制作](https://sampforum.blast.hk/showthread.php?tid=676988)
+
 [制作速度表](https://sampforum.blast.hk/showthread.php?tid=167814)
+
 [移动门的简单实现](https://sampforum.blast.hk/showthread.php?tid=187713)
 
 **知识讲解篇(入门 /提升）**
 [打包字符串](https://sampforum.blast.hk/showthread.php?tid=480529)
+
 [修复代码中的错误](https://sampforum.blast.hk/showthread.php?tid=274028)
+
 [返回字符串和数组](https://sampforum.blast.hk/showthread.php?tid=664024)
+
 [什么是枚举](https://sampforum.blast.hk/showthread.php?tid=318307)
+
 # 进阶与修仙
 [使用VSCode高效开发](https://tieba.baidu.com/p/8035593934)
+
 [从sa-mp转到open.mp](https://tieba.baidu.com/p/8308585149)
+
 [模块化编程](https://sampforum.blast.hk/showthread.php?tid=597338)
+
 [了解二进制运算符](https://sampforum.blast.hk/showthread.php?tid=177523)
+
 [了解联机服务器的同步机制](https://sampforum.blast.hk/showthread.php?tid=184118)
+
 [挂钩](https://sampforum.blast.hk/showthread.php?tid=574534)
+
 [挂钩2](https://sampforum.blast.hk/showthread.php?tid=392061)
+
 [代码优化](https://sampforum.blast.hk/showthread.php?tid=580289)
+
 [提高代码性能和可读性](https://sampforum.blast.hk/showthread.php?tid=610553)
+
 [代码性能测试](https://sampforum.blast.hk/showthread.php?tid=218491)
+
 [AMX Assembly](https://sampforum.blast.hk/showthread.php?tid=591705)
