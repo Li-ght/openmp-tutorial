@@ -793,6 +793,7 @@ MyFunc3()
 **编程基础篇：**
 
 1 基础:
+
 [代码基础](https://sampwiki.blast.hk/wiki/Scripting_Basics)
 
 [const](https://sampwiki.blast.hk/wiki/Keywords:Initialisers#const)
@@ -815,6 +816,7 @@ MyFunc3()
 
 
 2 关键词语句:
+
 [控制结构](https://sampwiki.blast.hk/wiki/Control_Structures) 
 
 [assert](https://sampwiki.blast.hk/wiki/Keywords:Statements#assert)
@@ -851,6 +853,7 @@ MyFunc3()
 
 
 3 编程指令:
+
 [#assert](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23assert)
 
 [#define](https://sampwiki.blast.hk/wiki/Keywords:Directives#.23define)
@@ -887,6 +890,7 @@ MyFunc3()
 
 
 4 其他:
+
 [char](https://sampwiki.blast.hk/wiki/Keywords:Operators#char)
 
 [defined](https://sampwiki.blast.hk/wiki/Keywords:Operators#defined)
@@ -899,6 +903,7 @@ MyFunc3()
 
 
 **资料篇：**
+
 这是你需要经常用的一些资料和维基百科，可能是你在开发过程中接触最多的部分
 [限制 - 关于服务器的一些限制](https://sampwiki.blast.hk/wiki/Limits)
 
@@ -914,6 +919,7 @@ MyFunc3()
 
 
 **脚本范例(入门）**
+
 注意：以下教程是sa-mp教程，可能和open.mp的部分语法有非常小的区别，但思路和代码实现是一致的
 [玩家随机出生](https://sampforum.blast.hk/showthread.php?tid=668170)
 
@@ -924,6 +930,7 @@ MyFunc3()
 [移动门的简单实现](https://sampforum.blast.hk/showthread.php?tid=187713)
 
 **知识讲解篇(入门 /提升）**
+
 [打包字符串](https://sampforum.blast.hk/showthread.php?tid=480529)
 
 [修复代码中的错误](https://sampforum.blast.hk/showthread.php?tid=274028)
