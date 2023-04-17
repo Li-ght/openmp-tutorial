@@ -905,6 +905,7 @@ MyFunc3()
 **资料篇：**
 
 这是你需要经常用的一些资料和维基百科，可能是你在开发过程中接触最多的部分
+
 [限制 - 关于服务器的一些限制](https://sampwiki.blast.hk/wiki/Limits)
 
 [函数 - 关于服务器提供的函数功能](https://sampwiki.blast.hk/wiki/Category:Scripting_Functions)
@@ -921,6 +922,7 @@ MyFunc3()
 **脚本范例(入门）**
 
 注意：以下教程是sa-mp教程，可能和open.mp的部分语法有非常小的区别，但思路和代码实现是一致的
+
 [玩家随机出生](https://sampforum.blast.hk/showthread.php?tid=668170)
 
 [对话框制作](https://sampforum.blast.hk/showthread.php?tid=676988)
@@ -940,6 +942,7 @@ MyFunc3()
 [什么是枚举](https://sampforum.blast.hk/showthread.php?tid=318307)
 
 # 进阶与修仙
+
 [使用VSCode高效开发](https://tieba.baidu.com/p/8035593934)
 
 [从sa-mp转到open.mp](https://tieba.baidu.com/p/8308585149)
